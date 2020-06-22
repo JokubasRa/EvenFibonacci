@@ -1,0 +1,13 @@
+C:\Users\Fond08\source\repos\EvenFibonacci\EvenFibonacci\bin\Debug\netcoreapp3.1\EvenFibonacci.exe
+C:\Users\Fond08\source\repos\EvenFibonacci\EvenFibonacci\bin\Debug\netcoreapp3.1\EvenFibonacci.deps.json
+C:\Users\Fond08\source\repos\EvenFibonacci\EvenFibonacci\bin\Debug\netcoreapp3.1\EvenFibonacci.runtimeconfig.json
+C:\Users\Fond08\source\repos\EvenFibonacci\EvenFibonacci\bin\Debug\netcoreapp3.1\EvenFibonacci.runtimeconfig.dev.json
+C:\Users\Fond08\source\repos\EvenFibonacci\EvenFibonacci\bin\Debug\netcoreapp3.1\EvenFibonacci.dll
+C:\Users\Fond08\source\repos\EvenFibonacci\EvenFibonacci\bin\Debug\netcoreapp3.1\EvenFibonacci.pdb
+C:\Users\Fond08\source\repos\EvenFibonacci\EvenFibonacci\obj\Debug\netcoreapp3.1\EvenFibonacci.csprojAssemblyReference.cache
+C:\Users\Fond08\source\repos\EvenFibonacci\EvenFibonacci\obj\Debug\netcoreapp3.1\EvenFibonacci.AssemblyInfoInputs.cache
+C:\Users\Fond08\source\repos\EvenFibonacci\EvenFibonacci\obj\Debug\netcoreapp3.1\EvenFibonacci.AssemblyInfo.cs
+C:\Users\Fond08\source\repos\EvenFibonacci\EvenFibonacci\obj\Debug\netcoreapp3.1\EvenFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Fond08\source\repos\EvenFibonacci\EvenFibonacci\obj\Debug\netcoreapp3.1\EvenFibonacci.dll
+C:\Users\Fond08\source\repos\EvenFibonacci\EvenFibonacci\obj\Debug\netcoreapp3.1\EvenFibonacci.pdb
+C:\Users\Fond08\source\repos\EvenFibonacci\EvenFibonacci\obj\Debug\netcoreapp3.1\EvenFibonacci.genruntimeconfig.cache
